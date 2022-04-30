@@ -1,2 +1,2 @@
-# circuitpythonukah
+# CircuitPythonukiah
 A modern menorah
