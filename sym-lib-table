@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CircuitPythonukiah")(type "KiCad")(uri "${KIPRJMOD}/CircuitPythonukiah.kicad_sym")(options "")(descr ""))
+)
