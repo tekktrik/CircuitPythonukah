@@ -55,7 +55,7 @@ This is by far the most labor-intensive step.  Since I didn't plan on this being
 kind of big operation, I decided to hand-solder eerything to the board.  This was fairly
 straight forward with the exception of a couple things:
 
-* The LEDs I would bend the pins so it would be in just about the right place, and then
+* I would bend each LED so the pins so would be in just about the right place, and then I
   bend the wires again to somewhat lock it in place.  I'd then solder one pin to the board,
   before then using one hand to hold the LED and PCB, and the other to use the soldering
   iron, which would allow me to remelt the solder and use my hand to finely position the
