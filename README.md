@@ -20,7 +20,7 @@ This project uses the following off-the-shelf mechanical components:
 * [M5 Spacer](https://www.mcmaster.com/7298N112/) (x1)
 
 ### Electronics (Off-The-Shelf)
-This project uses the following electronics materials:
+This project uses the following off-the-shelf electronic components:
 
 * [QT Py ESP32-S2 Dev Board](https://www.adafruit.com/product/5325) (x1)
 * [Piezo Buzzer](https://www.adafruit.com/product/160) (x1)
