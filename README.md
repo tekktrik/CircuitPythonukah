@@ -61,9 +61,9 @@ straight forward with the exception of a couple things:
   which would allow me to remelt the solder and use my hand to finely position the LED.
 * The USB C receptacle was a byproduct of not wanting multiple USB receptacle types
   between the microcontroller and the PCB.  I found that I could do a similar trick as
-  the LED and solder one pad to "lock" it, and then use one hand to apply pressure to it
-  while remelting the solder with the other.  Then I just applied solder across the pads,
-  using some solder wick to get all the extra.
+  the LED and solder one pad to "lock" it, and then use one hand to apply pressure while
+  remelting the solder with the other.  Then I just applied solder across the pads, using
+  some solder wick to get all the extra.
 
 ### Assembling Everything
 
