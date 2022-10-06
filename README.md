@@ -45,7 +45,7 @@ others I had looked at.
 For the base, I used 0.2 mm layer thickness and 20% infill.  I also didn't use supports
 when I printed since it came out pretty well without them, and I had a lot of trouble
 removing the breakway supports otherwise.  I'm leaving it up to [Hubs](https://www.hubs.com/)
-(the printing service I'll be using) to figure that last one out (not sure I can specify
+(the printing service I'll be using) to figure that last bit out (not sure I can specify
 either).  I decided to print this in black rather than blue since the black made the
 board "pop" more.
 
