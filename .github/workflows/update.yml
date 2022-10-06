@@ -17,4 +17,4 @@ jobs:
         token: ${{ secrets.HELPER_BOT_TOKEN }}
         repository: tekktrik/CircuitPythonukiah
         event-type: update-submodule
-        client_payload: '{"type": "hardware", "sha": "${{ github.sha }}"}'
+        client-payload: '{"type": "hardware", "sha": "${{ github.sha }}"}'
