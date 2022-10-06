@@ -1,9 +1,9 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('CircuitPythonukiah.step','2022-08-27T12:08:12',('Pcbnew'),(
-    'Kicad'),'Open CASCADE STEP processor 7.5','KiCad to STEP converter'
-  ,'Unknown');
+FILE_NAME('pcb.step','2022-10-05T17:56:00',('Pcbnew'),('Kicad'),
+  'Open CASCADE STEP processor 7.5','KiCad to STEP converter','Unknown'
+  );
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
 ENDSEC;
 DATA;
@@ -15,7 +15,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('CircuitPythonukiah 1','CircuitPythonukiah 1','',(#8));
+#7 = PRODUCT('pcb 1','pcb 1','',(#8));
 #8 = PRODUCT_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #10 = SHAPE_REPRESENTATION('',(#11,#15),#19);
