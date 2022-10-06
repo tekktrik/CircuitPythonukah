@@ -36,7 +36,7 @@ This project uses the following off-the-shelf electronic components:
 
 ### Fabricating the Custom Components
 
-There isn't necessarily one way to do this, but I can mention how I did it.
+There isn't necessarily one way to do this, but I can mention how I did it:
 
 I used [JLCPCB](https://jlcpcb.com/) to fabricate my boards, mostly because I knew
 they could do blue PCBs and the quote for the weirdly shaped PCB was better than
