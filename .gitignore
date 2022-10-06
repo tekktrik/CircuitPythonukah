@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2022 Alec Delaney
+#
+# SPDX-License-Identifier: MIT
+
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
@@ -30,3 +34,7 @@ CircuitPythonukiah-backups/
 
 # Custom files/folders
 Fab/
+
+# Virtual environment files
+.env
+.venv
