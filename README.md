@@ -57,9 +57,8 @@ straight forward with the exception of a couple things:
 
 * I would bend each LED so the pins so would be in just about the right place, and then I
   bend the wires again to somewhat lock it in place.  I'd then solder one pin to the board,
-  before then using one hand to hold the LED and PCB, and the other to use the soldering
-  iron, which would allow me to remelt the solder and use my hand to finely position the
-  LED.
+  while using one hand to hold the LED and PCB, and the other to use the soldering iron,
+  which would allow me to remelt the solder and use my hand to finely position the LED.
 * The USB C receptacle was a byproduct of not wanting multiple USB receptacle types
   between the microcontroller and the PCB.  I found that I could do a similar trick to
   the LED and solder one pad to "lock" it, and then use one hand to apply pressure to it
