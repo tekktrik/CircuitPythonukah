@@ -68,4 +68,5 @@ straight forward with the exception of a couple things:
 ### Assembling Everything
 
 I used a small hand tool to screw in the self-tapping screw, which helped make sure the board
-wasn't rattling too much.  Don't forget to add the spacer!
+wasn't rattling too much when everything is assembled.  Don't forget to add the spacer before
+tightening everything!
