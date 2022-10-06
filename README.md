@@ -1,4 +1,4 @@
-# CircuitPythonukiah
+# CircuitPythonukiah Hardware
 Hardware required for the CircuitPythonukiah project
 
 ## Hardware Dependencies
