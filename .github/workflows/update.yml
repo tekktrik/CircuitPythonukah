@@ -9,7 +9,6 @@ on: [push, workflow_dispatch]
 jobs:
   pr-parent-submodule:
     runs-on: ubuntu-latest
-    needs: test
     if: github.ref == 'refs/heads/main'
     steps:
     - name: Submit PR to CircuitPythonuiah
