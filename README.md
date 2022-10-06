@@ -67,5 +67,5 @@ straight forward with the exception of a couple things:
 
 ### Assembling Everything
 
-I used a small hand tool to screw in the self-tapping screw, which helped sure the board
+I used a small hand tool to screw in the self-tapping screw, which helped make sure the board
 wasn't rattling too much.  Don't forget to add the spacer!
