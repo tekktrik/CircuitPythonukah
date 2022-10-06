@@ -1,0 +1,26 @@
+# SPDX-FileCopyrightText: 2022 Alec Delaney
+#
+# SPDX-License-Identifier: MIT
+
+name: Build CI
+
+on: [pull_request, push, workflow_dispatch]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.x"
+    - name: Versions
+      run: |
+        python3 --version
+    - name: Checkout current repo
+      uses: actions/checkout@v3
+      with:
+        submodules: true
+    - name: Pre-commit hooks
+      run: |
+        pre-commit run --all-files

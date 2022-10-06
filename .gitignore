@@ -30,3 +30,7 @@ CircuitPythonukiah-backups/
 
 # Custom files/folders
 Fab/
+
+# Virtual environment files
+.env
+.venv
