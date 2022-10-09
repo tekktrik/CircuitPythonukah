@@ -4,8 +4,8 @@ Source: https://github.com/tekktrik/CircuitPythonukiah_HW.git
 
 Files: electrical/*
 Copyright: 2022 Alec Delaney
-License: MIT
+License: CERN-OHL-S-2.0
 
 Files: mechanical/*
 Copyright: 2022 Alec Delaney
-License: MIT
+License: CERN-OHL-S-2.0
