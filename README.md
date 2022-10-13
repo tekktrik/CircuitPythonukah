@@ -70,3 +70,12 @@ straight forward with the exception of a couple things:
 I used a small hand tool to screw in the self-tapping screw, which helped make sure the board
 wasn't rattling too much when everything is assembled.  Don't forget to add the spacer before
 tightening everything!
+
+## Licenses and Attribution
+
+The hardware for this project is licensed under the CERN-OHL-S license, and uses components,
+both original and modified, with the following licenses:
+
+Licensed under CC-BY-SA-4.0 with Design Exception 1.0 by SnapEDA:
+* [EG1218](https://www.snapeda.com/parts/EG1218/E-Switch/view-part/) (modified)
+* [UJC-VP-3-SMT-TR](https://www.snapeda.com/parts/UJC-VP-3-SMT-TR/CUI%20Devices/view-part)
