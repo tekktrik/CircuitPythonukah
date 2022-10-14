@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PCB, CircuitPythonukiah")
+    (date "2022-10-12")
+    (rev "1.0.0")
+    (comment 1 "Licensed under CERN-OHL-S version 2")
+    (comment 2 "Copyright Alec Delaney, 2022")
+  )
+
   (lib_symbols
     (symbol "Adafruit:QT_Py" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 11.43 0)
