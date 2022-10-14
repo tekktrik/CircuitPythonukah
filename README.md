@@ -1,4 +1,9 @@
 # CircuitPythonukiah Hardware
+
+![OSHWA Certified](https://img.shields.io/badge/OSHWA-US002130-blue)
+![License](https://img.shields.io/badge/license-CERN--OHL--S--2.0-brightgreen)
+![Maintained](https://img.shields.io/maintenance/yes/2022)
+
 Hardware required for the CircuitPythonukiah project
 
 ## Hardware Dependencies
