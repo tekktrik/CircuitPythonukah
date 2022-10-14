@@ -1,5 +1,6 @@
 # CircuitPythonukiah Hardware
 
+![Build CI Status](https://img.shields.io/github/workflow/status/tekktrik/CircuitPythonukiah_HW/Build%20CI/main)
 ![OSHWA Certified](https://img.shields.io/badge/OSHWA-US002130-blue)
 ![License](https://img.shields.io/badge/license-CERN--OHL--S--2.0-brightgreen)
 ![Maintained](https://img.shields.io/maintenance/yes/2022)
