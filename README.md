@@ -81,7 +81,7 @@ tightening everything!
 The hardware for this project is licensed under the CERN-OHL-S license, and uses components,
 both original and modified, with the following licenses:
 
-* Licensed by the Certification Mark License Agreement by the OSHWA:
+* Licensed under the Certification Mark License Agreement by the OSHWA:
   * Open Source Hardware Certification Mark
 * Licensed under CC-SA by Macklin Chaffee:
   * Gear logo design
