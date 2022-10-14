@@ -6,7 +6,7 @@
 
   (title_block
     (title "PCB, CircuitPythonukiah")
-    (date "2022-10-13")
+    (date "2022-10-12")
     (rev "1.0.0")
     (comment 1 "Licensed under CERN-OHL-S version 2")
     (comment 2 "Copyright Alec Delaney, 2022")
