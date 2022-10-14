@@ -75,7 +75,8 @@ tightening everything!
 
 The hardware for this project is licensed under the CERN-OHL-S license, and uses components,
 both original and modified, with the following licenses:
-
+* Licensed under CC-SA by Macklin Chaffee:
+  * Gear logo design
 * Licensed under CC-BY-SA-4.0 with Design Exception 1.0 by SnapEDA:
   * [EG1218](https://www.snapeda.com/parts/EG1218/E-Switch/view-part/) (modified)
   * [UJC-VP-3-SMT-TR](https://www.snapeda.com/parts/UJC-VP-3-SMT-TR/CUI%20Devices/view-part)
