@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CERN--OHL--S--2.0-brightgreen)
 ![Maintained](https://img.shields.io/maintenance/yes/2022)
 
-Hardware required for the CircuitPythonukiah project
+Hardware required for the [CircuitPythonukiah project](https://github.com/tekktrik/CircuitPythonukiah)
 
 ## Hardware Dependencies
 Here are all the things needed: to physically build your very own CircuitPythonukiah:
