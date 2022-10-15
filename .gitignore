@@ -35,6 +35,11 @@ CircuitPythonukiah-backups/
 # Custom files/folders
 Fab/
 
+# CAD files
+*.[Ff][Cc][Ss]td?*
+*.stl
+*.step
+
 # Virtual environment files
 .env
 .venv
