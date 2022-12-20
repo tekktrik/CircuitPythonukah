@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.7)"
+      "Version": "(6.0.9)"
     },
-    "CreationDate": "2022-09-16T16:34:08-04:00"
+    "CreationDate": "2022-11-09T13:14:35-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "CircuitPythonukiah",
       "GUID": "43697263-7569-4745-9079-74686f6e756b",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 193.14,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25
     }
